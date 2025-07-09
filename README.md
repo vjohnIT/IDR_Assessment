@@ -27,7 +27,8 @@ Possible analytics information :  How many guest are in which state : traveled,p
 ### ADF Snapshot
 
 
-![image](https://github.com/user-attachments/assets/dc79d27e-ec67-48d5-aa68-3cf1958d2fd4)
+![image](https://github.com/user-attachments/assets/a978dc37-4080-47b1-82b7-d5ec192f988f)
+
 
 
 
