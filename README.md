@@ -13,6 +13,7 @@ Possible analytics information :  How many guest are in which state : traveled,p
 
 
 
+
 ### Approach
 
 - Build a data pipeline using medallion data layers .
