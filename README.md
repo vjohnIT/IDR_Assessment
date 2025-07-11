@@ -8,7 +8,8 @@ Possible analytics information :  How many guest are in which state : traveled,p
 
 ### Design 
 
-![image](https://github.com/user-attachments/assets/b5672e41-bf50-47bb-b735-ae0061e6aa09)
+<img width="2146" height="1204" alt="image" src="https://github.com/user-attachments/assets/3528b05e-54ab-4cee-bc95-86d3487e1907" />
+
 
 
 
